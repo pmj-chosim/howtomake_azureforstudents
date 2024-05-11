@@ -26,11 +26,25 @@
 ![image](https://github.com/pmj-chosim/howtomake_azureforstudents/assets/114579651/d95165eb-69f5-4663-88b0-4c0ef9c9818c)  
 <br>   
 
-3.인적사항을 입력합니다.
-![image](https://github.com/pmj-chosim/howtomake_azureforstudents/assets/114579651/121ad616-ee05-4d86-acca-a3b6bc968081)
+3. 경북대학교 포털에 접속 후, MS 365를 클릭합니다.
+![image](https://github.com/pmj-chosim/howtomake_azureforstudents/assets/114579651/4aa59c0f-82f3-404b-8f2c-4bbcda25eda9)
+
+계정 생성하기를 클릭 후, 개인정보 활용에 동의합니다.  
+![image](https://github.com/pmj-chosim/howtomake_azureforstudents/assets/114579651/c7c85be0-8565-4ea6-afb6-ec15eed7bd02)
+
+계정을 생성합니다.  
+![image](https://github.com/pmj-chosim/howtomake_azureforstudents/assets/114579651/86a95cd3-5733-47be-9aaa-0a4a869e06e9)
 
 
 
+
+
+
+인적사항을 입력합니다.
+![image](https://github.com/pmj-chosim/howtomake_azureforstudents/assets/114579651/5fa1e274-3f2f-42bc-a286-d6e39e56cf03)
+  
+
+로봇이 아님을 확인하는 문제를 풀고  
 ![image](https://github.com/pmj-chosim/howtomake_azureforstudents/assets/114579651/e2eac282-9b37-4772-b0c3-d9b56aa437a1)
 
 
