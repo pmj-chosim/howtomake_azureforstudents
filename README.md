@@ -55,7 +55,8 @@
   
 3번 과정에서 만든 학교 메일을 입력합니다.  
   
-![image](https://github.com/pmj-chosim/howtomake_azureforstudents/assets/114579651/a98c2075-9392-45a7-b961-2e0cee1d7979)
+![image](https://github.com/pmj-chosim/howtomake_azureforstudents/assets/114579651/85a572f2-4e4e-4e7f-a2bf-91d72b8c4a57)
+
 <br>
   
 로봇이 아님을 확인하는 문제를 풀고  
