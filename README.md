@@ -1,2 +1,3 @@
-# howtomake_azureforstudents
-guide for how to get azure for studuents credit
+# Azure for Students 체험 계정 만들기
+
+  
