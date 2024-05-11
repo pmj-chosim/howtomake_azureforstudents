@@ -67,7 +67,7 @@
   
 ![image](https://github.com/pmj-chosim/howtomake_azureforstudents/assets/114579651/1cae7a58-1c77-4f4b-9e1f-7397c1223e95) 
 <br>
-입력한 학교 메일에 로그인해 자격을 인증합니다.
+입력한 학교 메일에 로그인해 자격을 인증합니다.(경북대학교 포털 -> MS 365 -> 로그인하기)
   
 ![image](https://github.com/pmj-chosim/howtomake_azureforstudents/assets/114579651/00e634c3-2df4-44d8-bbf4-ba777cd08cd9)
 <br>
