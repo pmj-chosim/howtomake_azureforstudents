@@ -93,6 +93,7 @@ Microsft 로그인 창이 뜨면, 학교 메일을 선택합니다.
 학교 메일을 선택하면 Azure Portal로 자동 로그인됩니다.  
 <br>
 아래의 ```지금 등록하세요``` 버튼을 누르면 **Azure for Students** 크레딧을 받아 바로 Azure Portal에서 사용할 수 있습니다. 
+<br>
 ![image](https://github.com/pmj-chosim/howtomake_azureforstudents/assets/114579651/8dc9164e-1f11-4193-91d8-644fc471e149)
 
 
