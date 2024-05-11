@@ -35,21 +35,33 @@
 계정을 생성합니다.  
 ![image](https://github.com/pmj-chosim/howtomake_azureforstudents/assets/114579651/86a95cd3-5733-47be-9aaa-0a4a869e06e9)
 
+<br>
 
-
-
-
-
+4.학생 인증하
 인적사항을 입력합니다.
 ![image](https://github.com/pmj-chosim/howtomake_azureforstudents/assets/114579651/5fa1e274-3f2f-42bc-a286-d6e39e56cf03)
-  
+
+3번 과정에서 만든 학교 메일을 입력합니다.  
+![image](https://github.com/pmj-chosim/howtomake_azureforstudents/assets/114579651/a98c2075-9392-45a7-b961-2e0cee1d7979)
+
 
 로봇이 아님을 확인하는 문제를 풀고  
 ![image](https://github.com/pmj-chosim/howtomake_azureforstudents/assets/114579651/e2eac282-9b37-4772-b0c3-d9b56aa437a1)
+  
+학업 상태 확인 버튼을 누른 후,
+![image](https://github.com/pmj-chosim/howtomake_azureforstudents/assets/114579651/1cae7a58-1c77-4f4b-9e1f-7397c1223e95) 
 
+입력한 학교 메일에 로그인해 자격을 인증합니다.
+![image](https://github.com/pmj-chosim/howtomake_azureforstudents/assets/114579651/00e634c3-2df4-44d8-bbf4-ba777cd08cd9)
 
+메일에 송부된 링크에 들어가 인증 절차를 거칩니다.  
+![image](https://github.com/pmj-chosim/howtomake_azureforstudents/assets/114579651/86a84f3c-9683-42d9-8cde-9a5a71a4747f)
 
+인증 절차를 모두 마친 후, 다시 학생 인증 웹페이지로 돌아와 학업 상태 확인 버튼을 재 클릭합니다.  
+![image](https://github.com/pmj-chosim/howtomake_azureforstudents/assets/114579651/5fa1e274-3f2f-42bc-a286-d6e39e56cf03)  
 
+5. azure for students 계정의 개인정보를 입력합니다.
+![image](https://github.com/pmj-chosim/howtomake_azureforstudents/assets/114579651/6dab69d2-13ba-46d5-8f0f-60e01d41ebcb)
 
   
 
